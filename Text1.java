@@ -1,4 +1,4 @@
-	
+
 public class Text1 {
 
 	public static void main(String[] args) {
@@ -14,6 +14,6 @@ public class Text1 {
 			System.out.println("odd numbe");
 		}
 	} // dones
-	// new done
-	// donesssss.
+	// new done......
+	// done??
 }
